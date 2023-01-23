@@ -12,5 +12,5 @@ if (num / 100 != 0)
 
 else
 {
-    Console.WriteLine("Введите ТРЕХЗНАЧНОЕ число");
+    Console.WriteLine("Нужно ввести ТРЕХЗНАЧНОЕ число");
 }
