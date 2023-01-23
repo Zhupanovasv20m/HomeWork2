@@ -1,14 +1,18 @@
 ﻿// Напишите программу, которая выводит третью цифру заданного 
 // числа или сообщает, что третьей цифры нет.
-Console.WriteLine("Введите трехзначное число");
-int num = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число");
+long num = Convert.ToInt64(Console.ReadLine());
+long result = num;
 
-if (num / 100 != 0)
+if (num / 100 == 0)
 {
-    int numLast = num % 10;
-    System.Console.WriteLine($"{num} -> {numLast}");
+    Console.WriteLine($"{num} - Третьей цифры нет!");
 }
 else
 {
-    System.Console.WriteLine($"{num} - Третьей цифры нет!");
+    while (result / 1000 != 0)
+    {
+        result = result / 10;
+    }
+    Console.WriteLine($"{num} -> {result % 10}");
 }
