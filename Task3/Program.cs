@@ -4,11 +4,11 @@
 Console.WriteLine("Введите число");
 int num = Convert.ToInt32(Console.ReadLine());
 
-if (num == 6 || num ==7)
+if (num == 6 || num == 7)
 {
     System.Console.WriteLine("Это выходной день!");
 }
 else
 {
-System.Console.WriteLine("Это не выходной");
+    System.Console.WriteLine("Это не выходной");
 }
