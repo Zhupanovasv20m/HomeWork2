@@ -1,0 +1,15 @@
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.csproj.AssemblyReference.cache
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.GeneratedMSBuildEditorConfig.editorconfig
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.AssemblyInfoInputs.cache
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.AssemblyInfo.cs
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.csproj.CoreCompileInputs.cache
+F:\света\HomeWork2\gg\bin\Debug\net6.0\gg.exe
+F:\света\HomeWork2\gg\bin\Debug\net6.0\gg.deps.json
+F:\света\HomeWork2\gg\bin\Debug\net6.0\gg.runtimeconfig.json
+F:\света\HomeWork2\gg\bin\Debug\net6.0\gg.dll
+F:\света\HomeWork2\gg\bin\Debug\net6.0\gg.pdb
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.dll
+F:\света\HomeWork2\gg\obj\Debug\net6.0\refint\gg.dll
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.pdb
+F:\света\HomeWork2\gg\obj\Debug\net6.0\gg.genruntimeconfig.cache
+F:\света\HomeWork2\gg\obj\Debug\net6.0\ref\gg.dll
